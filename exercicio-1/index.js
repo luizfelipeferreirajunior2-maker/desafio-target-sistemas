@@ -10,7 +10,7 @@ for (const venda of dados.vendas) {
     let comissao = 0
 
     if(valor < 100){
-        comissão = 0
+        comissao = 0
     }
     else if(valor < 500){
         comissao = valor* 0.01

@@ -47,17 +47,3 @@ movimentarEstoque(
   20,
   "Saída de mercadoria para venda"
 )
-
-movimentarEstoque(
-  102,
-  "entrada",
-  25,
-  "Entrada de mercadoria no depósito"
-)
-
-movimentarEstoque(
-  105,
-  "saida",
-  200,
-  "Saída de mercadoria"
-)

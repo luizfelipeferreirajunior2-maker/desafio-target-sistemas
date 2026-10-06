@@ -206,7 +206,7 @@ node --version
 Após clonar o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/luizfelipeferreirajunior2-maker/desafio-target-sistemas.git
 ```
 
 Entre na pasta:
